@@ -74,7 +74,8 @@ I’m Antonella Pirrera, a programmer in NYC
  ## 📈 Github Stats  
 
 <table><tr><td valign="top" width="50%">
-![Anto's GitHub stats](https://github-readme-stats.vercel.app/api?username=antopi8&show_icons=true&theme=transparent)
+
+![Anto GitHub stats](https://github-readme-stats.vercel.app/api?username=antopi8&show_icons=true&theme=transparent)
 
 </td><td valign="top" width="50%">
 
@@ -83,8 +84,6 @@ I’m Antonella Pirrera, a programmer in NYC
 </td></tr></table>  
 
 <br/>  
-
-  
  
 
 
