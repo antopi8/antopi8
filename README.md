@@ -25,13 +25,13 @@ I’m Antonella Pirrera, a programmer in NYC
  <div align="left">
   <br />
   <br />
-🌱 I’m learning - as my next language 
+🌱 I want to continue to learn Programming, Art, and Animation ⌨️
   <br />  
   <br />
-❓ Ask me about anything related to -
+❓ Ask me about anything related to Dragon Quest 🐲
   <br />
 <br />
-⚡ Fun fact: - 👼
+⚡ Fun fact: - I'm learning Italian, I have 200+ day Duolingo streak 🍝
   <br />
  </div>
 </td><td valign="top" width="60%">
@@ -74,12 +74,11 @@ I’m Antonella Pirrera, a programmer in NYC
  ## 📈 Github Stats  
 
 <table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=antopi8&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 90%" />
+[![Anto's GitHub stats](https://github-readme-stats.vercel.app/api?username=antopi8)](https://github.com/antopi8/github-readme-stats)
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antopi8&hide_border=true&layout=compact" align="center" style="width: 90%" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antopi8&layout=compact)
 
 </td></tr></table>  
 
