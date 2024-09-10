@@ -1,7 +1,7 @@
 # <div align="center"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" style="width: 5%" /> Welcome to my Github!</div>
  
 <div align="center">
-I’m Antonella Pirrera, a programmer in NYC
+I’m Antonella, a programmer in NYC
 <br/><br/>
   
 ## 📫 Connect with me 
@@ -28,7 +28,7 @@ I’m Antonella Pirrera, a programmer in NYC
 🌱 I want to continue to learn Programming, Art, and Animation ⌨️
   <br />  
   <br />
-❓ Ask me about anything related to Dragon Quest 🐲
+❓ Ask me about anything related to fostering cats, I've fostered 8+ and matched them with their furever homes! 🐈
   <br />
 <br />
 ⚡ Fun fact: - I'm learning Italian, I have 200+ day Duolingo streak 🍝
